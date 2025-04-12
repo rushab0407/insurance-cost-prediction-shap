@@ -4,7 +4,7 @@ This is an interactive **Streamlit web app** that predicts an individual's medic
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔢 Predicts insurance costs based on:
   - Age
@@ -19,8 +19,6 @@ This is an interactive **Streamlit web app** that predicts an individual's medic
 
 ---
 
-## 📦 Tech Stack
-
 - Python
 - Pandas, NumPy
 - Scikit-learn
@@ -31,7 +29,7 @@ This is an interactive **Streamlit web app** that predicts an individual's medic
 
 ---
 
-## 📊 Dataset Info
+##  Dataset Info
 
 - **Source**: [Kaggle - Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - Contains:
@@ -41,7 +39,7 @@ This is an interactive **Streamlit web app** that predicts an individual's medic
 
 ---
 
-## 🧠 Model Performance
+##  Model Performance
 
 - ✅ **R² Score**: ~0.87
 - ✅ **MAE**: ~$2550
