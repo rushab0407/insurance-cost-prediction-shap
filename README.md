@@ -2,6 +2,8 @@
 
 This is an interactive **Streamlit web app** that predicts an individual's medical insurance cost using a **Random Forest Regressor**, and explains the prediction using **SHAP (SHapley Additive Explanations)**
 
+
+![Insurance Dashboard]asset/shap.png
 ---
 
 ##  Features
